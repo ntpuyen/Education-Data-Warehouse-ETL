@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Education"
+  DTS:DTSID="{41957BE4-6976-4D15-9C04-BF020E2C8B36}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=MOONCHILD;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Initial File Name=C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\Education_DW.bak;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

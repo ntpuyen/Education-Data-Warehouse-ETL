@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36617.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Education ETL", "Education Project\Education ETL.dtproj", "{CB74A2DC-3D26-46DC-9AA6-837A484A893A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB74A2DC-3D26-46DC-9AA6-837A484A893A}.Development|Default.ActiveCfg = Development
+		{CB74A2DC-3D26-46DC-9AA6-837A484A893A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02527C15-AD6D-48C8-8CAB-92101E3899EF}
+	EndGlobalSection
+EndGlobal

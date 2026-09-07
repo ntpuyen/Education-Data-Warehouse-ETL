@@ -1,0 +1,9 @@
+# Visual Studio / SSIS temporary files
+bin/
+obj/
+*.dtproj.user
+*.suo
+*.user
+
+# SQL Server temporary files
+*.ldf
